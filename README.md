@@ -1,2 +1,2 @@
-# Guest-Code-Donation-Repo
+# Guest-Code-Donation
 Any guests or followers who are interested to share codes and would love to collaborate are most welcome to donate or collaborate your codes with me.
